@@ -1,4 +1,4 @@
-Hit JQuery !
+Hit jQuery !
 
 This works as a note and reference to look up in the future !
 
