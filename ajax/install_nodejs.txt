@@ -1,0 +1,9 @@
+go to nodejs.org to get installation
+
+node -v
+npm -v
+
+node install live-server -g
+
+cd working_dir
+live-server [--port=8000]
